@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Add.svg</file>
+        <file>res/Change.svg</file>
+        <file>res/DB.svg</file>
+        <file>res/DownloadDB.svg</file>
+        <file>res/DownloadError.svg</file>
+        <file>res/DownloadLic.svg</file>
+        <file>res/FileDownloaded.svg</file>
+        <file>res/FileDownloading.svg</file>
+        <file>res/FileOnDisk.svg</file>
+        <file>res/Log.svg</file>
+        <file>res/Logo.svg</file>
+        <file>res/primerDB.txt</file>
+        <file>res/primerProgram.txt</file>
+        <file>res/Program.svg</file>
+        <file>res/Remove.svg</file>
+        <file>res/Settings.svg</file>
+        <file>res/Stop.svg</file>
+        <file>res/TaskList.svg</file>
+        <file>res/Update.svg</file>
+        <file>res/UpdateWIZARD.ico</file>
+    </qresource>
+    <qresource prefix="/res"/>
+</RCC>

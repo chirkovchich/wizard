@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg width="40" height="40" data-name="Layer 1" version="1.1" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}.cls-4{fill:url(#linear-gradient-4);}.cls-5{fill:url(#linear-gradient-5);}</style>
+		<linearGradient id="linear-gradient" x1="1371" x2="1371" y1="463.23" y2="562.07" gradientTransform="rotate(180 697.5 248.98)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#fff" offset="0" />
+			<stop stop-color="#cce2e6" offset=".52" />
+			<stop stop-color="#8fa1bb" offset="1" />
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="1371" x2="1371" y1="541.13" y2="445.61" gradientTransform="rotate(180 697.5 248.98)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#f3c57a" offset="0" />
+			<stop stop-color="#f39369" offset=".49" />
+			<stop stop-color="#e94867" offset="1" />
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="1384.1" x2="1384.1" y1="575.98" y2="448.57" xlink:href="#linear-gradient-2" />
+		<linearGradient id="linear-gradient-4" x1="1357.9" x2="1357.9" y1="575.98" y2="448.57" xlink:href="#linear-gradient-2" />
+		<linearGradient id="linear-gradient-5" x1="1371" x2="1371" y1="575.98" y2="448.57" xlink:href="#linear-gradient-2" />
+		<pattern width="6" height="6" patternUnits="userSpaceOnUse" />
+	</defs>
+	<title>arrow, down, downwards, download</title>
+	<g transform="matrix(.93166 0 0 .93166 -2.3456 -196.14)">
+		<circle class="cls-1" cx="24" cy="231.98" r="21.03" fill="#c74343" />
+		<path class="cls-2" d="m25.19 253c10.981-0.6872 19.611-9.6606 19.87-20.66 0.08623-4.6413-1.3737-9.1795-4.15-12.9-3.7536-5.0425-11.766-2.3762-11.75 3.91v7.95c0 0.40317 0.32683 0.73 0.73 0.73h2.63s-6.1343 16.445-8.1642 20.823c-1.0947-3.6002-8.8858-20.853-8.8858-20.853h2.63c0.40317 0 0.73-0.32683 0.73-0.73v-7.91c0.0032-6.2709-7.9826-8.9306-11.74-3.91-10.624 14.335 0.28619 34.557 18.1 33.55z" fill="#fff" />
+		<path class="cls-3" d="m7.09 222.43a6.52 6.52 0 0 1 11.75 3.91v-3.05a6.52 6.52 0 0 0-11.75-3.91 20.91 20.91 0 0 0-4.15 12.55c0 0.52 0 1 0.06 1.54a20.89 20.89 0 0 1 4.09-11.04z" fill="#f78f8f" />
+		<path class="cls-4" d="m40.874 222.36a20.89 20.89 0 0 1 4.09 10.89c0-0.35 0.06-0.69 0.07-1a20.92 20.92 0 0 0-4.15-12.9 6.52 6.52 0 0 0-11.75 3.91v3.05a6.52 6.52 0 0 1 11.74-3.95z" fill="#f78f8f" />
+	</g>
+</svg>
